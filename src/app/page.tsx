@@ -171,13 +171,13 @@ export default function Home() {
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Link href="/customer">
-            <Button size="lg">I'm a Customer</Button>
+            <Button size="lg">I&apos;m a Customer</Button>
           </Link>
           <Link href="/staff">
-            <Button variant="outline" size="lg">I'm Staff</Button>
+            <Button variant="outline" size="lg">I&apos;m Staff</Button>
           </Link>
           <Link href="/admin">
-            <Button variant="outline" size="lg">I'm an Admin</Button>
+            <Button variant="outline" size="lg">I&apos;m an Admin</Button>
           </Link>
         </div>
       </div>
